@@ -2,6 +2,9 @@
 
 This repository contains an interactive and visually appealing button component built using **React** and **Framer Motion**. The "Fancy Button One" component demonstrates smooth animations on hover and click events, providing a modern and dynamic user experience.
 
+[![Demo Video](./)](./fancyButtonOne.mp4)
+
+
 ## Features
 
 - **Hover Animation**:
